@@ -6,7 +6,7 @@
     "license": "CC BY-NC-ND 4.0",
     "version": "9.6.1",
     "require": {
-        "php": "^7.3|^8.0",
+        "php": "^7.3|^8.3",
         "bacon/bacon-qr-code": "^3.0",
         "coderflex/laravel-ticket": "^2.0",
         "fruitcake/laravel-cors": "^2.0",
